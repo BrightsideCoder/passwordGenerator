@@ -1,3 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Karla&display=swap');
+
 body {
     margin: 0;
+    background: #1C1C1C;
+    font-family: 'Karla', sans-serif;
+    width: 1253px;
+    height: 678px;
+    position: absolute;
+    text-align: center;
+}
+
+#container {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 62px;
+    top: 64px;
+    background: #1F2937;
+}
+
+h1 {
+    color: #FFF;
+    position: absolute;
+    width: 330px;
+    height: 80px;
+    margin: 115px 0 0 52px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-align: left;
+}
+
+#span-heading {
+    color: #4ADF86;
+}
+
+h2 {
+    position: absolute;
+    color: #D5D4D8;
+    width: 372px;
+    height: 28px;
+    margin: 205px 0 0 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
 }
