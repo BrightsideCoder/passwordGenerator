@@ -93,13 +93,14 @@ h2 {
 
 .password-field {
     position: absolute;
+    padding-top: 20px;
     width: 211px;
     height: 39px;
     left: 52px;
     top: 396px;
-
     background: #273549;    
     border-radius: 6px;
+    color: #4ADF86;
 }
 
 .right-field {
